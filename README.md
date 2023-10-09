@@ -140,7 +140,7 @@ Convert a decimal number to hexadecimal.
 ### 41. Hexadecimal to Decimal
 Convert a hexadecimal number to decimal.
 
-### 42. Sum of Digits
+42. Sum of Digits
 Calculate and display the sum of digits of a number.
 
 ### 43. Product of Digits
